@@ -1,0 +1,43 @@
+{
+	"Profile":{
+		"img":"family.png",
+     	"name":"sravya",
+     	"roll":"1244",
+     	"place":"Guntur",
+     	"email":"tanniru.sravya@gmail.com"     	
+	},
+	"career":{
+		"info":"i want to seek a job in reputed company "
+	},
+	"education":[
+		{
+			"degree":"b.tech",
+			"institution":"vignan",
+			"per":"75",
+			"year":"2021"
+		},
+		{
+		   "degree":"inter",
+			"institution":"chaitanya",
+			"per":"75",
+			"year":"2017"
+        },
+        {
+        	"degree":"schooling",
+			"institution":"katuri",
+			"per":"70",
+			"year":"2015"
+        }
+	],
+    "language":[
+     {
+	    "info":"english"
+     },
+     {
+	    "info":"telugu"
+     },
+     {
+	    "info":"hindi"
+     }
+    ]
+}
